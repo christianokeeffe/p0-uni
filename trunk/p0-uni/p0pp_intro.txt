@@ -1,0 +1,5 @@
+IMEI and IMSI abuse on Android smartphones
+
+Why did we choose this topic
+
+400.000 Android phones are activated every day
