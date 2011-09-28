@@ -3,3 +3,11 @@ IMEI and IMSI abuse on Android smartphones
 Why did we choose this topic
 
 400.000 Android phones are activated every day
+
+Android Applications can read the IMEI and IMSI numbers
+
+But the problem is writing new IMEI and IMSI numbers to a phone.
+
+Our problem statement:
+
+Why can apps on Android-phones get the IMEI, and what consequences can it have?
